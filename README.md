@@ -36,33 +36,33 @@
 <!--                      ABOUT ME SECTION                         -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF"/>
+<div align="center">
 
 ### 🧠 About Me
 
-```python
-#!/usr/bin/env python3
+<br/>
 
-class mepankaja:
-    name       = "mepankaja"
-    alias      = "NXTHUB"
-    location   = "🌍 Earth"
-    role       = "Developer & Builder"
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding GIF"/>
 
-    skills = {
-        "languages" : ["Python", "JavaScript", "HTML", "CSS"],
-        "specialty" : ["Bots", "Automation", "Web Dev"],
-        "tools"     : ["Git", "Linux", "VS Code", "Telegram API"],
-        "databases" : ["SQLite", "MongoDB"],
-    }
+</div>
 
-    currently  = "🔨 Building new projects"
-    learning   = "📚 Always something new"
-    motto      = "🚀 Ship it. Improve it. Repeat."
+<div align="left">
 
-me = mepankaja()
-print(f"Hello World! I'm {me.name} 👾")
-```
+👋 &nbsp;Hey! I'm **mepankaja**, also known as **NXTHUB** — a passionate developer who loves turning ideas into real, working things.
+
+🤖 &nbsp;I build **Telegram bots**, automation scripts, web scrapers, and downloader tools using **Python**.
+
+🌐 &nbsp;I also do **web development** — building clean, functional pages with HTML, CSS, and JavaScript.
+
+🎬 &nbsp;Lately I've been deep into **web scraping** — pulling movie data, posters, and metadata from the web.
+
+🐳 &nbsp;I use **Docker** to containerize my projects and **MongoDB** to store and query data efficiently.
+
+⚙️ &nbsp;I'm always building something new — if it can be automated, I'll automate it.
+
+🚀 &nbsp;**Motto:** *Ship it. Improve it. Repeat.*
+
+</div>
 
 <br clear="right"/>
 
@@ -100,23 +100,15 @@ print(f"Hello World! I'm {me.name} 👾")
 **Languages**
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,bash&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,html,js,css&theme=dark" />
 </a>
 
 <br/><br/>
 
-**Frameworks & Tools**
+**Tools & Databases**
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker,sqlite,mongodb,flask&theme=dark" />
-</a>
-
-<br/><br/>
-
-**Platforms & Other**
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=telegram,discord,cloudflare,vercel,heroku,raspberry_pi&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,mongodb,git,github,linux,vscode&theme=dark" />
 </a>
 
 </div>
@@ -174,10 +166,9 @@ print(f"Hello World! I'm {me.name} 👾")
 
 | 🏷️ Project | 📝 Description | 🛠️ Tech | ⭐ Stars |
 |:---:|:---|:---:|:---:|
-| [🎵 Spotify Music Bot](https://github.com/mepankaja/Spotify-Music-Bot) | Telegram bot that downloads Spotify tracks, playlists & albums as MP3s | `Python` `Telegram API` `Spotify API` | ⭐ |
+| [🎬 Movie Poster Scraper](https://github.com/mepankaja) | Scrapes movie posters, titles, ratings & metadata from the web and stores them in MongoDB | `Python` `BeautifulSoup` `MongoDB` `Docker` | 🔥 |
 | [📤 Vikingfile Uploader](https://github.com/mepankaja/Vikingfile_Uploader) | Automated file uploader tool | `Python` `API` | ⭐ |
 | [⬇️ Multi Downloader](https://github.com/mepankaja/Multi_Downloader) | Download from multiple sources in one tool | `Python` | 🔧 |
-| [💝 Surprise Page](https://github.com/mepankaja/surprise_for_you_jyoti) | A special HTML page | `HTML` `CSS` | 💜 |
 
 </div>
 
@@ -193,29 +184,13 @@ print(f"Hello World! I'm {me.name} 👾")
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=mepankaja&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=c084fc&icon_color=c084fc&text_color=e9d5ff&border_radius=12&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mepankaja&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=c084fc&icon_color=c084fc&text_color=e9d5ff&border_radius=12&include_all_commits=true&count_private=true&hide=contribs" height="180" alt="GitHub Stats"/>
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mepankaja&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=c084fc&text_color=e9d5ff&border_radius=12&langs_count=8" height="180" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mepankaja&theme=tokyonight&hide_border=true&background=0d0d1a&ring=c084fc&fire=c084fc&currStreakLabel=c084fc&sideLabels=e9d5ff&dates=e9d5ff&currStreakNum=ffffff&sideNums=ffffff&border_radius=12" width="68%" alt="GitHub Streak"/>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      GITHUB TROPHIES                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-### 🏆 GitHub Trophies
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=mepankaja&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%" alt="Trophies"/>
+<img src="https://streak-stats.demolab.com/?user=mepankaja&theme=tokyonight&hide_border=true&background=0d0d1a&ring=c084fc&fire=c084fc&currStreakLabel=c084fc&sideLabels=e9d5ff&dates=e9d5ff&currStreakNum=ffffff&sideNums=ffffff&border_radius=12" width="68%" alt="GitHub Streak"/>
 
 </div>
 
@@ -232,28 +207,6 @@ print(f"Hello World! I'm {me.name} 👾")
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mepankaja&bg_color=0d0d1a&color=c084fc&line=7c3aed&point=e9d5ff&area=true&area_color=1a0533&hide_border=true&radius=12&custom_title=mepankaja's%20Contribution%20Graph" width="100%" alt="Activity Graph"/>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--           SNAKE ANIMATION (requires GitHub Action)            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-### 🐍 Snake Eating My Contributions
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mepankaja/mepankaja/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mepankaja/mepankaja/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/mepankaja/mepankaja/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
-
-> ⚙️ **Setup:** To enable the snake, add the workflow below to `.github/workflows/snake.yml` in your profile repo.
 
 </div>
 
@@ -282,16 +235,16 @@ print(f"Hello World! I'm {me.name} 👾")
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    RANDOM DEV QUOTE                           -->
+<!--                    DEV QUOTE                                  -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-### 💬 Dev Quote of the Day
+### 💜 Words I Code By
 
 <br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" alt="Random Dev Quote"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0533,100:0d0d1a&height=90&text=%22First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.%22&fontSize=18&fontColor=e9d5ff&fontAlignY=50&desc=—%20John%20Johnson&descSize=13&descAlignY=78&descColor=c084fc" width="80%" alt="Dev Quote"/>
 
 </div>
 
