@@ -13,7 +13,7 @@
 
 **`> Analyze. Automate. Accelerate.`**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-PM.dev-22c55e?style=for-the-badge&logo=firefox&logoColor=white)](https://mepankaja.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-PM.dev-22c55e?style=for-the-badge&logo=firefox&logoColor=white)](https://pankajameher.42web.io/)
 [![NXT HUB](https://img.shields.io/badge/NXT_HUB-Neural_Network-22c55e?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xNiAxMWMxLjY2IDAgMi45OS0xLjM0IDIuOTktM1MxNy42NiA1IDE2IDVjLTEuNjYgMC0zIDEuMzQtMyAzczEuMzQgMyAzIDN6bS04IDBjMS42NiAwIDIuOTktMS4zNCAyLjk5LVNTOC42NiA1IDcgNUM1LjM0IDUgNCA2LjM0IDQgOHMxLjM0IDMgMyAzem0wIDJjLTIuMzMgMC03IDEuMTctNyAzLjV2MWgxNHYtMWMwLTIuMzMtNC42Ny0zLjUtNy0zLjV6bTggMGMtLjI5IDAtLjYyLjAyLS45Ny4wNSAxLjE2Ljg0IDEuOTcgMS45NyAxLjk3IDMuNDV2MWg2di0xYzAtMi4zMy00LjY3LTMuNS03LTMuNXoiLz48L3N2Zz4=&logoColor=white)](https://mepankaja.github.io/network.html)
 [![Telegram](https://img.shields.io/badge/Telegram-@mepankaja-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mepankaja)
 [![Email](https://img.shields.io/badge/Email-me.pankaja%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me.pankaja@gmail.com)
