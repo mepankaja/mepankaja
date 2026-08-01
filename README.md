@@ -32,9 +32,8 @@
 class PankajaMeher:
     name       = "Pankaja Meher"
     alias      = "PM.dev"
-    age        = 21
+    age        = 22
     location   = "Odisha, India"
-    education  = "Physics Honours"
     focus      = ["Python Development", "Cyber Security", "AI / ML", "Telegram Automation"]
     status     = "Available for deployment 🟢"
 
